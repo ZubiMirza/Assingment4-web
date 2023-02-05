@@ -1,0 +1,481 @@
+.zubi{
+    padding: 30px;
+    
+    position: absolute;
+width: 395.83px;
+height: 37.53px;
+left: 63.99px;
+top: 55.54px;
+}
+.zubi2{
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+    position: absolute;
+width: 350px;
+height: 4.46px;
+left: 530.99px;
+top: 1px;
+list-style: none;
+}
+.zubii{
+    padding-top: 30px;
+}
+.zubi3{
+    position: absolute;
+width: 858px;
+height: 162px;
+left: 100px;
+top: 186px;
+/* text-align: center; */
+
+font-family: 'New York Extra Large';
+font-style: normal;
+font-weight: 700;
+font-size: 54px;
+line-height: 100%;
+/* or 54px */
+
+text-align: center;
+
+color: #000000;
+}
+.zubi4{
+    position: absolute;
+width: 626px;
+height: 68px;
+left: 200px;
+top: 380px;
+
+font-family: 'SF Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 170%;
+/* or 34px */
+
+text-align: center;
+
+color: #000000;
+}
+.zubi5{
+    padding: 3px;
+
+
+    position: absolute;
+    /* width: 1200px;
+    height: 300px; */
+    left: 0px;
+    top: 500px;
+}
+.zubi6{
+    /* padding-top: 980px; */
+    position: absolute;
+    width: 640px;
+    height: 0px;
+    left: 180px;
+    top: 1115px;
+}
+.zubi7{
+    position: absolute;
+width: 57px;
+height: 57px;
+left: 180px;
+top: 1150px;
+
+}
+.zubi8{
+position: absolute;
+width: 162px;
+height: 19px;
+left: 250px;
+top: 1130px;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+/* letter-spacing: 0.05em; */
+text-transform: uppercase;
+}
+.zubi9{
+    box-sizing: border-box;
+
+position: absolute;
+width: 140px;
+height: 44px;
+right: 190px;
+top  : 1150px;
+
+background: #FFFFFF;
+border: 1px solid #EAEAEA;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.08);
+border-radius: 4px;
+}
+.zubi11{
+    position: absolute;
+    left: 20px;
+    /* right: 0%; */
+    top: 15px;
+/* bottom: 0.24%;    */
+}
+.zubi12{
+    position: absolute;
+    left: 100px;
+    top: 18px;
+}
+.zubi13{
+    position: absolute;
+    left: 75px;
+    top: 4px;
+
+}
+.zubi14{
+    position: absolute;
+width: 640px;
+height: 238px;
+left: 175px;
+top: 1220px;
+display: flex;
+justify-content: center;
+font-family: 'New York Medium';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 170%;
+}
+.zubi15{
+    position: absolute;
+width: 288px;
+height: 51px;
+left: 175px;
+top: 1450px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 160%;
+}
+.zubi16{
+    position: absolute;
+width: 640px;
+height: 228px;
+left: 175px;
+top: 1550px;
+
+font-family: 'New York Medium';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 170%;
+}
+.zubi17{
+    position: absolute;
+width: 850px;
+height: 570px;
+/* left: 160px; */
+top: 1830px;
+}
+.zubi18{
+    position: absolute;
+    top: 2405px;
+    left: 260px;
+    
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+text-align: center;
+
+}
+.zubi19{
+    position: absolute;
+width: 640px;
+height: 272px;
+left: 175px;
+top: 2500px;
+
+font-family: 'New York Medium';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 170%;
+}
+.zubi20{
+    position: absolute;
+width: 640px;
+height: 34px;
+left: 175px;
+top: 2780px;
+
+font-family: 'New York Medium';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 170%;
+}
+.zubi21{
+    position: absolute;
+width: 640px;
+height: 34px;
+left: 175px;
+top: 2850px;
+list-style: square;
+
+font-family: 'New York Medium';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 170%;
+}
+.zubi22{
+    position: absolute;
+width: 640px;
+height: 68px;
+left: 175px;
+top: 3000px;
+
+font-family: 'New York Medium';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 170%;
+}
+.zubi23{
+    position: absolute;
+    width: 640px;
+    height: 68px;
+    left: 175px;
+    top: 3100px;
+    font-family: 'New York Medium';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 170%;
+        
+}
+.zubi24{
+    /* box-sizing: border-box; */
+
+position: absolute;
+width: 640px;
+height: 50px;
+top: 3200px;
+left: 175px;
+
+/* background: #FFFFFF;  */
+/* border: 1px solid #EAEAEA; */
+/* box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.08); */
+/* border-radius: 4px; */
+}
+.zubi25{
+position: absolute;
+left: 250px;
+top: 3225px;
+}
+.zubi26{
+position: absolute;
+left: 280px;
+top: 3226px;
+}
+.zubi27{
+
+    position: absolute;
+    left: 585px;
+    top: 3226px;
+}
+.zubi28{
+
+    position: absolute;
+    left: 615px;
+    top: 3226px;
+}
+.zubi29{
+    position: absolute;
+    left: 500px;
+    top: 3204px;
+}
+.zubi30{
+    position: absolute;
+    left: 175px;
+    top: 3310px;
+}
+.zubi31{
+    position: absolute;
+    left: 175px;
+    top: 3350px;
+}
+.zubi32{
+    position: absolute;
+width: 71.25px;
+height: 71.25px;
+left: 175px;
+top: 3390px;
+border-radius: 50%;
+    
+}
+.zubi33{
+    position: absolute;
+    left: 250px;
+    top: 3375px;
+}
+.zubi34{
+    position: absolute;
+    left: 250px;
+    top: 3375px;
+}
+.zubi34{
+    position: absolute;
+    top: 3500px;
+    left: 0%;
+    /* width: 999px; */
+}
+.zubii1{
+
+    position: absolute;
+    width: 44.29px;
+    height: 62.86px;
+    left: 400px;
+    top: 3500px;
+}
+.zubi35{
+    position: absolute;
+    bottom: 15px;
+    left: 60px;
+}
+.zubi36{
+    position: absolute;
+    bottom: 25px;
+    left: 70px;
+}
+.zubi37{
+    position: absolute;
+    bottom: 15px;
+    left: 88px;
+}
+.zubi38{
+    position: absolute;
+    bottom: 25px;
+    left: 99px;
+}
+.zubi39{
+    position: absolute;
+    left: 375px;
+    top: 3550px;
+}
+.zubi40{
+    position: absolute;
+    left: 150px;
+    top: 3650px;
+}
+
+.zubi41{
+    position: absolute;
+    left: 180px;
+    top: 3840px;
+}
+.zubi42{
+    position: absolute;
+    left: 390px;
+    top: 3650px;
+ }
+.zubi43{
+    position: absolute;
+    left: 410px;
+    top: 3840px;
+}
+.zubi44{
+    position: absolute;
+    left: 630px;
+    top: 3650px;
+}
+ .zubi45{
+    position: absolute;
+    left: 660px;
+    top: 3840px;
+}
+.zubi46{
+    position: absolute;
+    left: 150px;
+    top: 3950px;
+}
+.zubi47{
+    position: absolute;
+    left: 180px;
+    top: 4135px;
+}
+.zubi48{
+    position: absolute;
+    left: 390px;
+    top: 3950px;
+}
+.zubi49{
+    position: absolute;
+    left: 420px;
+    top: 4135px;
+}
+.zubi50{
+    position: absolute;
+    left: 630px;
+    top: 3950px;
+} 
+.zubi51{
+    position: absolute;
+    left: 650px;
+    top: 4135px;
+}
+.zubi52{
+    
+box-sizing: border-box;
+
+position: absolute;
+
+left: 270px;
+top: 4280px;
+
+}
+.zubi53{
+    position: absolute;
+    left: 270px;
+    top: 4270px;
+}
+
+.zubi54{
+    position: absolute;
+    left: 330px;
+    top: 4320px;
+}
+.zubi55{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    left: 310px;
+    top: 4350px;
+    text-align: center;
+}
+.zubi56{
+    position: absolute;
+    top: 4420px;
+    left: 370px;
+    width: 500px;
+}
+.zubi57{
+    position: absolute;
+    top: 4420px;
+    left: 540px;
+}
+.zubi58{
+    position: absolute;
+    top: 4420px;
+    left: 545px;
+}
+.zubi59{
+    position: absolute;
+    top: 4550px;
+}
